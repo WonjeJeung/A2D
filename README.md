@@ -30,7 +30,7 @@
 ## News
 * **`2026.04`** 🤗🤗 Code is released!
 * **`2026.02`** 🤗🤗 Website is opened!
-* **`2026.01** 🎉🎉 A2D has been accepted by ICLR 2026!
+* **`2026.01`** 🎉🎉 A2D has been accepted by ICLR 2026!
 
 ## Preparation
 1. Clone this repository.
