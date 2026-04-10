@@ -1,0 +1,6 @@
+__pycache__/
+hf_models/*
+model/*
+output/*
+drawers/*
+drawers2/*
